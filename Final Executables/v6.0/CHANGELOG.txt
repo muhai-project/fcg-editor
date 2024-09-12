@@ -1,0 +1,3 @@
+v6.0 - November 2022
+
+- Integrated Propbank-grammar for learning grammars from propbank-annotated corpora.

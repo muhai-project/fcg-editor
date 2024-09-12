@@ -1,0 +1,5 @@
+v4.0 - February 2022
+
+- Integration of FCG and IRL in the fcg-editor package
+- Bugfix in autocompletion and showing of function arguments
+- Integration of grammar configurator

@@ -1,0 +1,4 @@
+v7.2 - April 2023
+
+- Incremental search using new ctrl-f keybinding for Linux and Windows
+- Package duckie-language-learning included

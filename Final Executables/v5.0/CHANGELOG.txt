@@ -1,0 +1,5 @@
+v5.0 - March 2022
+
+- Integrated *package-for-evaluation* global variable
+- First version built using LispWorks 8.0
+- Default path for opening and saving files set based on open buffers

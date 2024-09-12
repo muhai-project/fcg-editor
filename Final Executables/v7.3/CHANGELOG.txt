@@ -1,0 +1,6 @@
+v7.3 - October 2023
+
+- Packages included:
+	- :nlp24cl => CONCEPT LEARNING - simplified version of CONCEPT LEARNING
+	- :propbank-grammar => PROPBANK GRAMMAR
+	- :clevr-grammar-learning => INTENTION READING and PATTERN FINDING
